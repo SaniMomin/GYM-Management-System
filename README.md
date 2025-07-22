@@ -6,7 +6,7 @@ Gym Management System is a Django-based web application designed for streamlined
 
 ## 🔗 Links
 
-- 📁 **GitHub Repository**: [https://github.com/SaniMomin/LibroX](https://github.com/SaniMomin/GYM-Management-System)
+- 📁 **GitHub Repository**: [https://github.com/SaniMomin/GYM-Management-System](https://github.com/SaniMomin/GYM-Management-System)
 
 ---
 
